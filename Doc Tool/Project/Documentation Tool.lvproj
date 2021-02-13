@@ -14,6 +14,7 @@
 		<Item Name="Test Files" Type="Folder">
 			<Item Name="TestClass.lvclass" Type="LVClass" URL="../../Test Files/TestClass.lvclass"/>
 			<Item Name="Test Top State.vi" Type="VI" URL="../../Test Files/Test Top State.vi"/>
+			<Item Name="Test Pics.vi" Type="VI" URL="../../Test Files/Test Pics.vi"/>
 		</Item>
 		<Item Name="TDefs" Type="Folder">
 			<Item Name="States" Type="Folder">
@@ -21,9 +22,13 @@
 				<Item Name="States.ctl" Type="VI" URL="../../TDefs/States.ctl"/>
 			</Item>
 			<Item Name="UI" Type="Folder">
+				<Item Name="not used" Type="Folder">
+					<Item Name="FP Items Properties_.ctl" Type="VI" URL="../../TDefs/FP Items Properties_.ctl"/>
+				</Item>
 				<Item Name="CopyTag.ctl" Type="VI" URL="../../TDefs/CopyTag.ctl"/>
-				<Item Name="FP Items Properties.ctl" Type="VI" URL="../../TDefs/FP Items Properties.ctl"/>
 				<Item Name="Single File Properties.ctl" Type="VI" URL="../../TDefs/Single File Properties.ctl"/>
+				<Item Name="FP Item Properties.ctl" Type="VI" URL="../../TDefs/FP Item Properties.ctl"/>
+				<Item Name="FP Items Properties.ctl" Type="VI" URL="../../TDefs/FP Items Properties.ctl"/>
 			</Item>
 			<Item Name="Events" Type="Folder">
 				<Item Name="UserEvent.ctl" Type="VI" URL="../../Events/UserEvent.ctl"/>
@@ -31,6 +36,8 @@
 			</Item>
 			<Item Name="Context.ctl" Type="VI" URL="../../TDefs/Context.ctl"/>
 			<Item Name="Selected FP Items.ctl" Type="VI" URL="../../TDefs/Selected FP Items.ctl"/>
+			<Item Name="FP Items Properties Addendum.ctl" Type="VI" URL="../../TDefs/FP Items Properties Addendum.ctl"/>
+			<Item Name="Type.ctl" Type="VI" URL="../../TDefs/Type.ctl"/>
 		</Item>
 		<Item Name="VIs" Type="Folder">
 			<Item Name="States" Type="Folder">
@@ -88,6 +95,9 @@
 				<Item Name="DialogType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogType.ctl"/>
 				<Item Name="General Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler.vi"/>
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
+				<Item Name="imagedata.ctl" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/imagedata.ctl"/>
+				<Item Name="Draw Flattened Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Flattened Pixmap.vi"/>
+				<Item Name="FixBadRect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/FixBadRect.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
