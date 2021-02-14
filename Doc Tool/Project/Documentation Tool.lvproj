@@ -16,51 +16,8 @@
 			<Item Name="Test Top State.vi" Type="VI" URL="../../Test Files/Test Top State.vi"/>
 			<Item Name="Test Pics.vi" Type="VI" URL="../../Test Files/Test Pics.vi"/>
 		</Item>
-		<Item Name="TDefs" Type="Folder">
-			<Item Name="States" Type="Folder">
-				<Item Name="State.ctl" Type="VI" URL="../../TDefs/State.ctl"/>
-				<Item Name="States.ctl" Type="VI" URL="../../TDefs/States.ctl"/>
-			</Item>
-			<Item Name="UI" Type="Folder">
-				<Item Name="not used" Type="Folder">
-					<Item Name="FP Items Properties_.ctl" Type="VI" URL="../../TDefs/FP Items Properties_.ctl"/>
-				</Item>
-				<Item Name="CopyTag.ctl" Type="VI" URL="../../TDefs/CopyTag.ctl"/>
-				<Item Name="Single File Properties.ctl" Type="VI" URL="../../TDefs/Single File Properties.ctl"/>
-				<Item Name="FP Item Properties.ctl" Type="VI" URL="../../TDefs/FP Item Properties.ctl"/>
-				<Item Name="FP Items Properties.ctl" Type="VI" URL="../../TDefs/FP Items Properties.ctl"/>
-			</Item>
-			<Item Name="Events" Type="Folder">
-				<Item Name="UserEvent.ctl" Type="VI" URL="../../Events/UserEvent.ctl"/>
-				<Item Name="Events.ctl" Type="VI" URL="../../Events/Events.ctl"/>
-			</Item>
-			<Item Name="Context.ctl" Type="VI" URL="../../TDefs/Context.ctl"/>
-			<Item Name="Selected FP Items.ctl" Type="VI" URL="../../TDefs/Selected FP Items.ctl"/>
-			<Item Name="FP Items Properties Addendum.ctl" Type="VI" URL="../../TDefs/FP Items Properties Addendum.ctl"/>
-			<Item Name="Type.ctl" Type="VI" URL="../../TDefs/Type.ctl"/>
-		</Item>
-		<Item Name="VIs" Type="Folder">
-			<Item Name="States" Type="Folder">
-				<Item Name="_AddBefore.vi" Type="VI" URL="../../States/_AddBefore.vi"/>
-				<Item Name="_AddAfter.vi" Type="VI" URL="../../States/_AddAfter.vi"/>
-				<Item Name="TopToCurrent.vi" Type="VI" URL="../../States/TopToCurrent.vi"/>
-				<Item Name="_TopToCurrent.vi" Type="VI" URL="../../States/_TopToCurrent.vi"/>
-				<Item Name="GetCurrentState.vi" Type="VI" URL="../../States/GetCurrentState.vi"/>
-			</Item>
-			<Item Name="Change Description.vi" Type="VI" URL="../../Change Description.vi"/>
-			<Item Name="Change DocumentPath.vi" Type="VI" URL="../../Change DocumentPath.vi"/>
-			<Item Name="Change DocumentTag.vi" Type="VI" URL="../../Change DocumentTag.vi"/>
-			<Item Name="Change FP Items Properties.vi" Type="VI" URL="../../Change FP Items Properties.vi"/>
-			<Item Name="Change Path.vi" Type="VI" URL="../../Change Path.vi"/>
-			<Item Name="Keep Description.vi" Type="VI" URL="../../Keep Description.vi"/>
-			<Item Name="Read All FP Properties.vi" Type="VI" URL="../../Read All FP Properties.vi"/>
-			<Item Name="Read FileProperties.vi" Type="VI" URL="../../Read FileProperties.vi"/>
-			<Item Name="ReadFilesInFolder.vi" Type="VI" URL="../../ReadFilesInFolder.vi"/>
-			<Item Name="Select File.vi" Type="VI" URL="../../Select File.vi"/>
-			<Item Name="Select Files.vi" Type="VI" URL="../../Select Files.vi"/>
-			<Item Name="Write Single File Properties.vi" Type="VI" URL="../../Write Single File Properties.vi"/>
-		</Item>
-		<Item Name="Main.vi" Type="VI" URL="../../Main.vi"/>
+		<Item Name="DocTool.lvlib" Type="Library" URL="../../DocTool.lvlib"/>
+		<Item Name="StateMachine.lvlib" Type="Library" URL="../../StateMachine.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
@@ -98,6 +55,8 @@
 				<Item Name="imagedata.ctl" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/imagedata.ctl"/>
 				<Item Name="Draw Flattened Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Flattened Pixmap.vi"/>
 				<Item Name="FixBadRect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/FixBadRect.vi"/>
+				<Item Name="System Directory Type.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/System Directory Type.ctl"/>
+				<Item Name="Get System Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/Get System Directory.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
