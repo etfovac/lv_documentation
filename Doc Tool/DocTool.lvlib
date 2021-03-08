@@ -27,16 +27,17 @@
 			<Item Name="Keep Description.vi" Type="VI" URL="../Keep Description.vi"/>
 		</Item>
 		<Item Name="Change FP Items Properties.vi" Type="VI" URL="../Change FP Items Properties.vi"/>
-		<Item Name="Change Path.vi" Type="VI" URL="../Change Path.vi"/>
 		<Item Name="Read All FP Properties.vi" Type="VI" URL="../Read All FP Properties.vi"/>
 		<Item Name="Select File.vi" Type="VI" URL="../Select File.vi"/>
 		<Item Name="Read Single File Properties.vi" Type="VI" URL="../Read Single File Properties.vi"/>
 		<Item Name="Read All Files In Folder.vi" Type="VI" URL="../Read All Files In Folder.vi"/>
 		<Item Name="Write Single File Properties.vi" Type="VI" URL="../Write Single File Properties.vi"/>
 		<Item Name="Refresh FP Items.vi" Type="VI" URL="../FP/Refresh FP Items.vi"/>
+		<Item Name="Gen Help Tags.vi" Type="VI" URL="../Events/Gen Help Tags.vi"/>
+		<Item Name="Read File.vi" Type="VI" URL="../Events/Read File.vi"/>
+		<Item Name="Traverse Folder.vi" Type="VI" URL="../Events/Traverse Folder.vi"/>
+		<Item Name="UI Gen Help Tags.vi" Type="VI" URL="../UI/UI Gen Help Tags.vi"/>
+		<Item Name="UI Traverse Curr File.vi" Type="VI" URL="../UI/UI Traverse Curr File.vi"/>
 	</Item>
-	<Item Name="Gen Help Tags.vi" Type="VI" URL="../Events/Gen Help Tags.vi"/>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-	<Item Name="Read File.vi" Type="VI" URL="../Events/Read File.vi"/>
-	<Item Name="UI Gen Help Tags.vi" Type="VI" URL="../UI/UI Gen Help Tags.vi"/>
 </Library>
