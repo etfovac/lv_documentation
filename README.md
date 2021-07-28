@@ -1,7 +1,26 @@
-# lv_documentation
+### lv_documentation
+
+## Documentation Tags Editor
+[![DOI](https://zenodo.org/badge/326461104.svg)](https://zenodo.org/badge/latestdoi/326461104)  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/etfovac/wmm-c/blob/master/LICENSE) 
+
+
+LabVIEW tool for parsing and editing documentation Tags for VI files (Name, Description, Help Path, Help Tag) and Front Panel items (Index, Description, Tooltip).
 
 
 
+It loads a folder of VI files and goes through them one by one.
+
+
+
+Both FP and BD of currently selected VI are shown.
+
+
+
+All FP items are listed, terminals and error clusters can be ignored. 
+
+
+
+It's based on an event driven string state machine with local context cluster and custom library with utilities for parsing and inserting states.
 
 ### UI Layout  
 
