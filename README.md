@@ -6,21 +6,15 @@
 
 LabVIEW tool for parsing and editing documentation Tags for VI files (Name, Description, Help Path, Help Tag) and Front Panel items (Index, Description, Tooltip).
 
-
-
 It loads a folder of VI files and goes through them one by one.
-
-
 
 Both FP and BD of currently selected VI are shown.
 
-
-
 All FP items are listed, terminals and error clusters can be ignored. 
 
+It's based on an event driven string state machine with local context cluster and custom library with utilities for parsing and inserting states. 
 
-
-It's based on an event driven string state machine with local context cluster and custom library with utilities for parsing and inserting states.
+Link to NI Community's page [Example-Code/Documentation-Tags-Editor](https://forums.ni.com/t5/Example-Code/Documentation-Tags-Editor/ta-p/4167894) 
 
 ### UI Layout  
 
@@ -32,6 +26,10 @@ It's based on an event driven string state machine with local context cluster an
 
 <img src="./graphics/Ex_ReadArray_File.png" alt="Ex_ReadArray_File">  
 <img src="./graphics/Ex_ReadArray_FP.png" alt="Ex_ReadArray_FP">
+
+### Block Diaagram
+
+<img src="./graphics/2021-07-28_183712.png" alt="Show outputs">
 
 ### Table of Contents (Wiki)
 [Wiki Home](https://github.com/etfovac/lv_documentation/wiki)  
