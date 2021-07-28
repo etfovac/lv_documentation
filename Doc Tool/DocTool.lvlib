@@ -28,12 +28,14 @@
 		</Item>
 		<Item Name="Change FP Items Properties.vi" Type="VI" URL="../Change FP Items Properties.vi"/>
 		<Item Name="Read All FP Properties.vi" Type="VI" URL="../Read All FP Properties.vi"/>
+		<Item Name="Read FP Tags.vi" Type="VI" URL="../Events/Read FP Tags.vi"/>
 		<Item Name="Select File.vi" Type="VI" URL="../Select File.vi"/>
 		<Item Name="Read Single File Properties.vi" Type="VI" URL="../Read Single File Properties.vi"/>
 		<Item Name="Read All Files In Folder.vi" Type="VI" URL="../Read All Files In Folder.vi"/>
 		<Item Name="Write Single File Properties.vi" Type="VI" URL="../Write Single File Properties.vi"/>
 		<Item Name="Refresh FP Items.vi" Type="VI" URL="../FP/Refresh FP Items.vi"/>
 		<Item Name="Gen Help Tags.vi" Type="VI" URL="../Events/Gen Help Tags.vi"/>
+		<Item Name="Read Folder.vi" Type="VI" URL="../Events/Read Folder.vi"/>
 		<Item Name="Read File.vi" Type="VI" URL="../Events/Read File.vi"/>
 		<Item Name="Traverse Folder.vi" Type="VI" URL="../Events/Traverse Folder.vi"/>
 		<Item Name="UI Gen Help Tags.vi" Type="VI" URL="../UI/UI Gen Help Tags.vi"/>
