@@ -4,6 +4,13 @@
 
 
 ### UI Layout  
+
+<img src="./graphics/2021-07-28_180729.png" alt="Init"> 
+<img src="./graphics/2021-07-28_180813.png" alt="First"> 
+<img src="./graphics/2021-07-28_180839.png" alt="Test">
+<img src="./graphics/2021-07-28_180901.png" alt="No terminals">
+<img src="./graphics/2021-07-28_180916.png" alt="Show outputs">
+
 <img src="./graphics/Ex_ReadArray_File.png" alt="Ex_ReadArray_File">  
 <img src="./graphics/Ex_ReadArray_FP.png" alt="Ex_ReadArray_FP">
 
