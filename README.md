@@ -1,7 +1,7 @@
 ### lv_documentation
 
 ## Documentation Tags Editor
-[![DOI](https://zenodo.org/badge/326461104.svg)](https://zenodo.org/badge/latestdoi/326461104)  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/etfovac/wmm-c/blob/master/LICENSE) 
+[![DOI](https://zenodo.org/badge/326461104.svg)](https://zenodo.org/badge/latestdoi/326461104)  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/etfovac/lv_documentation/blob/master/LICENSE) 
 
 
 LabVIEW tool for parsing and editing documentation Tags for VI files (Name, Description, Help Path, Help Tag) and Front Panel items (Index, Description, Tooltip).
